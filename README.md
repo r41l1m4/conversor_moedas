@@ -1,6 +1,6 @@
 # conversor_moedas
 
-A new Flutter application.
+Conversor de moedas (Real, dólar, e Euro), usa API da HGBrasil para as cotações
 
 ## Getting Started
 
